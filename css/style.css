@@ -1,7 +1,7 @@
-.card-item {
-    border: none;
-    box-shadow: 5px 5px 10px lightgray;
-    border-radius: 10px;
+@import url('https://fonts.googleapis.com/css2?family=Secular+One&display=swap');
+
+body{
+    font-family: 'Secular One', sans-serif;
 }
 .prev-next-icon-biker{
     background-color: #B9345A;
